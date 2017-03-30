@@ -7,4 +7,4 @@
 2. [《精通CSS》高级web标准解决方案](https://github.com/visugar/read-books/blob/master/css/%E3%80%8A%E5%9B%BE%E8%A7%A3CSS3%E3%80%8B-%E5%A4%A7%E6%BC%A0.md)
 
 #### git部分
-1. [Git常用命令小结](https://github.com/visugar/read-books/blob/master/git)
+1. [Git常用命令小结](https://github.com/visugar/read-books/blob/master/git/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
