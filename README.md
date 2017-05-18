@@ -10,5 +10,5 @@
 1. [Git常用命令小结](https://github.com/visugar/read-books/blob/master/git/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
 #### 思维导图部分
-1. [RegExp（正则表达式）常用知识点小结]()
-2. [中文技术文档写作规范 - 改自阮一峰老师]()
+1. [RegExp（正则表达式）常用知识点小结](https://github.com/visugar/read-books/blob/master/technologyDoc/RegExp%EF%BC%88%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%EF%BC%89%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9%E5%B0%8F%E7%BB%93.md)
+2. [中文技术文档写作规范 - 改自阮一峰老师](https://github.com/visugar/read-books/blob/master/technologyDoc/%E4%B8%AD%E6%96%87%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%20-%20%E6%94%B9%E8%87%AA%E9%98%AE%E4%B8%80%E5%B3%B0%E8%80%81%E5%B8%88.md)
